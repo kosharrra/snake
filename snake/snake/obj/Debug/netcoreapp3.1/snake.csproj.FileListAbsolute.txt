@@ -1,0 +1,13 @@
+C:\Users\Katis\OneDrive\Рабочий стол\snake\snake\snake\bin\Debug\netcoreapp3.1\snake.exe
+C:\Users\Katis\OneDrive\Рабочий стол\snake\snake\snake\bin\Debug\netcoreapp3.1\snake.deps.json
+C:\Users\Katis\OneDrive\Рабочий стол\snake\snake\snake\bin\Debug\netcoreapp3.1\snake.runtimeconfig.json
+C:\Users\Katis\OneDrive\Рабочий стол\snake\snake\snake\bin\Debug\netcoreapp3.1\snake.runtimeconfig.dev.json
+C:\Users\Katis\OneDrive\Рабочий стол\snake\snake\snake\bin\Debug\netcoreapp3.1\snake.dll
+C:\Users\Katis\OneDrive\Рабочий стол\snake\snake\snake\bin\Debug\netcoreapp3.1\snake.pdb
+C:\Users\Katis\OneDrive\Рабочий стол\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.csprojAssemblyReference.cache
+C:\Users\Katis\OneDrive\Рабочий стол\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.AssemblyInfoInputs.cache
+C:\Users\Katis\OneDrive\Рабочий стол\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.AssemblyInfo.cs
+C:\Users\Katis\OneDrive\Рабочий стол\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.csproj.CoreCompileInputs.cache
+C:\Users\Katis\OneDrive\Рабочий стол\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.dll
+C:\Users\Katis\OneDrive\Рабочий стол\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.pdb
+C:\Users\Katis\OneDrive\Рабочий стол\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.genruntimeconfig.cache
