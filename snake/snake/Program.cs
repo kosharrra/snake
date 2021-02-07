@@ -10,8 +10,6 @@ namespace Snake
 	{
 		static void Main(string[] args)
 		{
-			Console.SetBufferSize(160, 50);
-
 			// Отрисовка рамочки
 			HorizontalLine upLine = new HorizontalLine(0, 78, 0, '+');
 			HorizontalLine downLine = new HorizontalLine(0, 78, 24, '+');
@@ -27,10 +25,9 @@ namespace Snake
 			Point p = new Point(4, 5, '*');
 			p.Draw();
 
-
-			/*Emploee e = new Emploee();
-			e.age = 42;
-			e.pay = 30000;*/
+			Console.ReadLine();
 		}
 	}
 }
+
+

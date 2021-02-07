@@ -1,4 +1,4 @@
-﻿/*uusing System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace Snake
 {
-	class Human
+	enum Direction
 	{
-		public int age; // возраст
+		LEFT,
+		RIGHT,
+		UP,
+		DOWN
 	}
 }
-*/
